@@ -14,7 +14,8 @@
  <div itemscope itemtype ="http://schema.org/Event">
         <h1 itemprop ="name"><strong>Assignment 3</strong></h1>
         <p itemprop="description">Upload the video clip of your project onto dropbox</p>
-        <b itemprop="endDate"Due Date: datetime="2017-02-03">February 3, 2017</b>
+        <b itemprop="endDate: Due Date: datetime="2017-02-03">February 3, 2017</b>
+        
  </div>
 </body>
 </html>
